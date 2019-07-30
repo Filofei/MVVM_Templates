@@ -1,6 +1,6 @@
 USAGE OF MVVM TEMPLATES
 
-(Written on Swift 4.2)
+(Written in Swift 4.2)
 These templates were created in order to prevent you from writing much boilerplate code in your Swift projects.
 The folder contains 3 templates for different types of modules: 
 Simple View Controller
