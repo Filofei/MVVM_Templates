@@ -1,8 +1,8 @@
 {\rtf1\ansi\ansicpg1251\cocoartf2479
 \cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fswiss\fcharset0 Helvetica-Oblique;\f2\fnil\fcharset0 LucidaGrande;
 }
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
-{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
 {\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{square\}}{\leveltext\leveltemplateid1\'01\uc0\u9642 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}}
 {\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}}
 \paperw11900\paperh16840\margl1440\margr1440\vieww28600\viewh16580\viewkind0
@@ -25,8 +25,7 @@ The folder contains 3 templates for different types of modules:
 {\listtext	
 \f2 \uc0\u9642 
 \f0 	}View Controller with TableView\
-\pard\tx220\tx720\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\li720\fi-720\sl360\slmult1\pardirnatural\partightenfactor0
-\ls1\ilvl0\cf0 {\listtext	
+{\listtext	
 \f2 \uc0\u9642 
 \f0 	}ViewController with CollectionView \
 \pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\sl360\slmult1\pardirnatural\partightenfactor0
